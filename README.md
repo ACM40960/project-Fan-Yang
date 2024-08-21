@@ -6,9 +6,9 @@ This project simulates multiple games of Blackjack using Monte Carlo methods to 
 
 - **Card Deck and Game Mechanics**: Simulates a Blackjack deck with standard rules for shuffling, dealing cards, and calculating hand values.
 - **Strategy Implementation**: Includes various player strategies:
-  - **Continuous Strategies**: The player stops drawing cards when the hand reaches a certain value, ranging from 12 to 20.
-  - **Card Count Strategy**: The player's decision to stop drawing cards is based on the total number of cards already held.
-  - **Small Card Strategy**: The player makes more aggressive decisions when a large number of small cards (2-6) have already appeared in the deck.
+ - **Continuous Strategies**: The player stops drawing cards when the hand reaches a certain value, ranging from 12 to 20.
+ - **Card Count Strategy**: The player's decision to stop drawing cards is based on the total number of cards already held.
+ - **Small Card Strategy**: The player makes more aggressive decisions when a large number of small cards (2-6) have already appeared in the deck.
 - **Monte Carlo Simulations**: The project runs 100,000 simulations per strategy to evaluate performance and calculate win rates.
 - **Visualization**: Bar charts are generated to compare the win rates of various strategies, with special focus on the most successful strategies.
 - **Numerical Outputs (via main2.py)**: Provides detailed numerical results for the player win rate, dealer win rate, and tie rate across all strategies.
@@ -25,7 +25,7 @@ This project simulates multiple games of Blackjack using Monte Carlo methods to 
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies by running:
-   ```bash
+```bash
    pip install matplotlib
 3. Run the simulation by executing the main.py or main2.py file depending on your interest:
   - To generate visualizations:
