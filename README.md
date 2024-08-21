@@ -30,8 +30,7 @@ This project simulates multiple games of Blackjack using Monte Carlo methods to 
 3. Run the simulation by executing the main.py or main2.py file depending on your interest:
    - To generate visualizations:
    ```bash
-   python main.py
-
+   python main.py```
    - To output numerical results (win rates, tie rates, and loss rates):
    ```bash
    python main2.py
