@@ -26,7 +26,7 @@ This project simulates multiple games of Blackjack using Monte Carlo methods to 
 1. Clone the repository to your local machine.
 2. Install the required dependencies by running:
    ```bash
-  pip install matplotlib
+   pip install matplotlib
 3. Run the simulation by executing the main.py or main2.py file depending on your interest:
   - To generate visualizations:
    ```bash
