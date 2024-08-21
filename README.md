@@ -35,6 +35,7 @@ This project simulates multiple games of Blackjack using Monte Carlo methods to 
    - To output numerical results (win rates, tie rates, and loss rates):
    ```bash
    python main2.py
+   ```
 4. Output
    - The visualizations include:
      - The win rates for continuous strategies.
